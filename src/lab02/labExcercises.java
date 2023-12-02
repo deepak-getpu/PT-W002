@@ -265,4 +265,4 @@ if((costOfMilk < 2.50) || thirstLevel > 6) {
 	       }
 	}
 
-}
+} // End of the class
